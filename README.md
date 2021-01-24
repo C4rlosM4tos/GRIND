@@ -1,0 +1,2 @@
+# GRIND
+GRIND crypto currency
