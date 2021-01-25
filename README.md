@@ -1,6 +1,14 @@
 # GRIND
 GRIND crypto currency
 
+Ropsten testnet:
+0x0767C0DAA309380d95C33d035ACa0d72c9cA36cB grind contract
+0xDc52A18B24Df9634179535747807DC5461B33506 ICO contract
+0x6Be646A0098E915d3942C47d8994117794206c2F BurnToStake contract
+
+
+
+
 ***Under construction ***
 
 GRIND is going to be just an other poopcoin, that will probably never deliver on its empty "promise".
