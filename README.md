@@ -8,8 +8,8 @@ Ropsten testnet:
 
 0x6Be646A0098E915d3942C47d8994117794206c2F BurnToStake contract
 
-to play / test, copy paste the contracts into  remix and connect to testnet. 
-select "deployed at" and enter contract address from here.
+to play / test, copy paste the contracts into  remix and connect to testnet using metamask. 
+select "deployed at" and enter contract address from here. you don't have to be an expert or programmer.
 
 thank you
 
