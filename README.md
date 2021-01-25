@@ -1,16 +1,21 @@
 # GRIND
 GRIND crypto currency
 
+***Under construction ***
 
-ropsten testnet address:
+GRIND is going to be just an other poopcoin, that will probably never deliver on its empty "promise".
+if there is not enough funds to keep developing the ecosystem than its up to you to give the token some value.
 
+there might be better project out there to invest int, total loss of funds is likely because poopcoins can go to 0.
 
-0x2d9e7d2bea98e11e8c5f7834bbad0c4131472849
+So, if you invest ,then you only buy the digital token, some magical internet thing you can send around, burn, but can't look at or touch.
 
+you don't buy any rights or product, you just donating so i can keep funding the project in high hopes of it ever mooning or providing value.
 
-minter address
+The GRIND ecosystem can only work when its running on its own chain, otherwise the transaction fees will just kill the usecase of the platform/network.
 
-0x128AF835ec9f456402eFC6d121460635FF7B68a5 
+people can buy good games for the price of 1 transaction on eth... so think twice before you "faucet" or "BurnToStake".
 
+having an own chain is the goal, but not every realistic. 
 
-for testing only
+support me, buy GRIND
