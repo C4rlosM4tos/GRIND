@@ -6,7 +6,7 @@ GRIND crypto currency
 GRIND is going to be just an other poopcoin, that will probably never deliver on its empty "promise".
 if there is not enough funds to keep developing the ecosystem than its up to you to give the token some value.
 
-there might be better project out there to invest int, total loss of funds is likely because poopcoins can go to 0.
+there might be better projects out there to invest in, total loss of funds is likely because poopcoins can go to 0.
 
 So, if you invest ,then you only buy the digital token, some magical internet thing you can send around, burn, but can't look at or touch.
 
