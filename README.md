@@ -1,6 +1,8 @@
 # GRIND
 GRIND crypto currency
 
+dead project
+
 Ropsten testnet:
 0x0767C0DAA309380d95C33d035ACa0d72c9cA36cB grind contract
 
